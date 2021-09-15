@@ -1,5 +1,6 @@
+// 01
 const hello = (name: string) => {
-    return `hello ${name}`
+	return `hello ${name}`
 }
 
-hello('yee');
+hello('yee')

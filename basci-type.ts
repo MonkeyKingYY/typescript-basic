@@ -1,3 +1,4 @@
+// 02
 let isDone: boolean = false
 
 let age: number = 10
