@@ -1,3 +1,4 @@
+//08
 class Animal {
 	readonly name: string // 只读，不可修改
 	constructor(name) {

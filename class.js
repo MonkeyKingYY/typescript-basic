@@ -1,3 +1,4 @@
+// 07
 // class Animal {
 //     constructor(name) {
 //         this.name = name
